@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1743655020.35744 "c:/Users/capatric/OneDrive - Intel Corporation/Documents/GitHub Projects/carlos-patricio-resume/main.tex" "main.pdf" "main" 1743655025.65106 0
+["pdflatex"] 1746044813.29468 "c:/Users/capatric/OneDrive - Intel Corporation/Documents/GitHub Projects/carlos-patricio-resume/main.tex" "main.pdf" "main" 1746044815.22242 0
   "C:/Users/capatric/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1743562363 82011 97247c01f6bfb6f6d0c40fab12a08423 ""
   "C:/Users/capatric/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1743562022 12037540 8b26ab3f346d43652e79f7a1a6430d1d ""
   "C:/Users/capatric/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1651500229 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -116,9 +116,9 @@
   "C:/Users/capatric/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1730400552 7243 e5dac1240636811edb77568b81818372 ""
   "C:/Users/capatric/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/capatric/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/capatric/OneDrive - Intel Corporation/Documents/GitHub Projects/carlos-patricio-resume/main.tex" 1743654965 11114 8f8d088491a2b600968b187a503bd729 ""
-  "main.aux" 1743655024 1670 6e1a5eb2a3f307eceb7793fa25cf7ca2 "pdflatex"
-  "main.tex" 1743654965 11114 8f8d088491a2b600968b187a503bd729 ""
+  "c:/Users/capatric/OneDrive - Intel Corporation/Documents/GitHub Projects/carlos-patricio-resume/main.tex" 1746044812 13209 087e4bc83b33e23f1ab472d2ecdba7b0 ""
+  "main.aux" 1746044814 1670 b9ae9273dae86344289d8242acc572cb "pdflatex"
+  "main.tex" 1746044812 13209 087e4bc83b33e23f1ab472d2ecdba7b0 ""
   (generated)
   "main.aux"
   "main.log"
